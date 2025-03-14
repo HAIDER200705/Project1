@@ -1,0 +1,101 @@
+Date,Product,Category,Units_Sold,Unit_Price,City,Total_Sales
+2024-01-01,Tablet,Accessories,14,1500,Riyadh,21000
+2024-01-02,Tablet,Accessories,14,2000,Cairo,28000
+2024-01-03,Tablet,Electronics,19,1000,Riyadh,19000
+2024-01-04,Phone,Accessories,17,2000,Riyadh,34000
+2024-01-05,Tablet,Electronics,4,500,New York,2000
+2024-01-06,Laptop,Electronics,8,1500,Riyadh,12000
+2024-01-07,Phone,Electronics,3,1000,Dubai,3000
+2024-01-08,Laptop,Electronics,6,1000,New York,6000
+2024-01-09,Headphones,Electronics,5,500,New York,2500
+2024-01-10,Laptop,Accessories,7,500,Riyadh,3500
+2024-01-11,Tablet,Accessories,9,2000,Dubai,18000
+2024-01-12,Tablet,Electronics,14,1500,Dubai,21000
+2024-01-13,Laptop,Accessories,4,2000,Cairo,8000
+2024-01-14,Headphones,Accessories,15,2000,Dubai,30000
+2024-01-15,Headphones,Accessories,16,2000,Cairo,32000
+2024-01-16,Phone,Accessories,6,500,Riyadh,3000
+2024-01-17,Tablet,Accessories,13,500,Dubai,6500
+2024-01-18,Headphones,Electronics,2,1500,Riyadh,3000
+2024-01-19,Laptop,Accessories,8,1500,Cairo,12000
+2024-01-20,Phone,Electronics,11,500,Dubai,5500
+2024-01-21,Tablet,Accessories,3,1000,Cairo,3000
+2024-01-22,Headphones,Electronics,19,1500,Cairo,28500
+2024-01-23,Tablet,Accessories,18,2000,Cairo,36000
+2024-01-24,Headphones,Electronics,7,1500,Cairo,10500
+2024-01-25,Tablet,Accessories,9,500,Dubai,4500
+2024-01-26,Laptop,Electronics,19,2000,Riyadh,38000
+2024-01-27,Tablet,Accessories,6,1500,New York,9000
+2024-01-28,Tablet,Electronics,5,2000,Cairo,10000
+2024-01-29,Phone,Electronics,11,2000,Riyadh,22000
+2024-01-30,Tablet,Electronics,6,1500,Dubai,9000
+2024-01-31,Tablet,Electronics,12,500,Cairo,6000
+2024-02-01,Laptop,Electronics,3,1000,Riyadh,3000
+2024-02-02,Headphones,Electronics,5,1000,Dubai,5000
+2024-02-03,Phone,Electronics,15,1000,Cairo,15000
+2024-02-04,Headphones,Electronics,2,500,Cairo,1000
+2024-02-05,Headphones,Accessories,1,1000,Dubai,1000
+2024-02-06,Headphones,Electronics,16,1500,Cairo,24000
+2024-02-07,Laptop,Accessories,13,1000,New York,13000
+2024-02-08,Laptop,Electronics,14,1000,Cairo,14000
+2024-02-09,Tablet,Electronics,8,2000,Riyadh,16000
+2024-02-10,Headphones,Accessories,6,2000,Dubai,12000
+2024-02-11,Phone,Electronics,15,1000,Cairo,15000
+2024-02-12,Laptop,Electronics,10,1500,Cairo,15000
+2024-02-13,Headphones,Accessories,8,2000,New York,16000
+2024-02-14,Headphones,Accessories,13,500,Dubai,6500
+2024-02-15,Tablet,Accessories,11,1500,Dubai,16500
+2024-02-16,Headphones,Accessories,3,1500,Dubai,4500
+2024-02-17,Laptop,Accessories,19,1000,Riyadh,19000
+2024-02-18,Phone,Electronics,19,500,Riyadh,9500
+2024-02-19,Laptop,Electronics,19,1000,Dubai,19000
+2024-02-20,Laptop,Accessories,10,500,Riyadh,5000
+2024-02-21,Headphones,Electronics,9,1000,Riyadh,9000
+2024-02-22,Laptop,Accessories,15,2000,Riyadh,30000
+2024-02-23,Phone,Accessories,15,500,Riyadh,7500
+2024-02-24,Headphones,Accessories,18,1000,Dubai,18000
+2024-02-25,Tablet,Electronics,11,2000,Dubai,22000
+2024-02-26,Laptop,Accessories,2,500,Dubai,1000
+2024-02-27,Headphones,Accessories,4,2000,New York,8000
+2024-02-28,Phone,Accessories,6,2000,New York,12000
+2024-02-29,Phone,Accessories,11,2000,Dubai,22000
+2024-03-01,Tablet,Electronics,3,1000,New York,3000
+2024-03-02,Headphones,Electronics,16,2000,Dubai,32000
+2024-03-03,Phone,Accessories,10,500,New York,5000
+2024-03-04,Headphones,Electronics,18,2000,New York,36000
+2024-03-05,Phone,Accessories,2,1000,New York,2000
+2024-03-06,Laptop,Electronics,17,1000,Cairo,17000
+2024-03-07,Headphones,Accessories,19,500,New York,9500
+2024-03-08,Phone,Accessories,12,1500,Riyadh,18000
+2024-03-09,Laptop,Electronics,4,1500,New York,6000
+2024-03-10,Tablet,Accessories,3,500,Dubai,1500
+2024-03-11,Tablet,Accessories,13,1500,New York,19500
+2024-03-12,Tablet,Electronics,16,1500,Dubai,24000
+2024-03-13,Tablet,Accessories,12,1500,New York,18000
+2024-03-14,Headphones,Electronics,3,1000,Dubai,3000
+2024-03-15,Laptop,Electronics,16,1500,New York,24000
+2024-03-16,Headphones,Electronics,16,1500,Cairo,24000
+2024-03-17,Headphones,Electronics,18,1500,Riyadh,27000
+2024-03-18,Tablet,Accessories,16,1000,New York,16000
+2024-03-19,Phone,Accessories,18,500,Dubai,9000
+2024-03-20,Headphones,Accessories,6,1000,Cairo,6000
+2024-03-21,Laptop,Accessories,11,1000,Cairo,11000
+2024-03-22,Phone,Electronics,14,1500,Cairo,21000
+2024-03-23,Tablet,Electronics,7,1000,New York,7000
+2024-03-24,Headphones,Accessories,8,2000,New York,16000
+2024-03-25,Phone,Electronics,14,500,Riyadh,7000
+2024-03-26,Tablet,Electronics,1,500,Riyadh,500
+2024-03-27,Headphones,Electronics,5,500,Dubai,2500
+2024-03-28,Headphones,Accessories,18,1500,Riyadh,27000
+2024-03-29,Laptop,Electronics,13,1000,Riyadh,13000
+2024-03-30,Tablet,Electronics,17,1000,Dubai,17000
+2024-03-31,Headphones,Accessories,10,1500,Dubai,15000
+2024-04-01,Laptop,Electronics,12,1500,Riyadh,18000
+2024-04-02,Phone,Electronics,7,500,New York,3500
+2024-04-03,Headphones,Electronics,9,2000,Cairo,18000
+2024-04-04,Headphones,Electronics,9,500,Riyadh,4500
+2024-04-05,Headphones,Electronics,4,1000,Cairo,4000
+2024-04-06,Laptop,Accessories,19,1500,Riyadh,28500
+2024-04-07,Tablet,Electronics,5,1500,Cairo,7500
+2024-04-08,Laptop,Accessories,5,1500,Dubai,7500
+2024-04-09,Phone,Accessories,12,500,Dubai,6000
